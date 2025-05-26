@@ -1,0 +1,14 @@
+# Core libraries for image/video processing and numerical operations
+numpy
+opencv-python
+
+# For plotting histograms, images, etc.
+matplotlib
+
+# For deep learning examples (CNNs, Transfer Learning)
+# Choose one based on your backend preference/installation
+tensorflow # or tensorflow-cpu
+# keras-core # Uncomment if using Keras Core directly
+
+# For downloading Haar cascade file in Topic 5
+requests 
